@@ -1,0 +1,12 @@
+django==3.2
+django-admin
+pandas
+pytest==6.2.0
+pytest-django
+psycopg2-binary
+djangorestframework==3.11.1
+djangorestframework-simplejwt
+django-import-export
+loguru
+
+
